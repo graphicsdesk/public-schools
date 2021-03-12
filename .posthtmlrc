@@ -10,34 +10,34 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "graphic-name.html"
+              "asset": "lede-draft.html"
             }
           }
         ],
         "body": [
           {
             "type": "text",
-            "value": "With the onset of the COVID-19 pandemic, schools across the nation have been forced to reconfigure traditional modes of education. As the largest school district in the nation, New York City’s public schools’ choices reverberate throughout the lives of over one million students, impacting traditionally disadvantaged communities the most."
+            "value": "With the onset of the COVID-19 pandemic last year, schools across the nation were forced to reconfigure established modes of education. The choices of New York City’s public schools—the largest school district in the nation—reverberate throughout the lives of over one million students; the effects of these decisions most severely impact traditionally disadvantaged communities."
           },
           {
             "type": "text",
-            "value": "Enrollment in West Harlem schools has decreased by 9% for the 2020-21 school year, compared to a city-wide average of 4%, begging the question of how challenges posed by pandemic-era learning are disproportionately impacting certain students. Adding on to this decrease in enrollment, 2,260 public school students across the city have gone unaccounted for despite being enrolled."
+            "value": "Enrollment in West Harlem schools has decreased by 9 percent for the 2020-21 school year compared to a citywide average of 4 percent, begging the question of how challenges posed by pandemic-era learning may disproportionately impact students in certain communities over others. In addition, 2,260 public school students across the city have gone unaccounted for despite being enrolled, meaning that they have been missing in attendance from online school for the entire school year."
           },
           {
             "type": "text",
-            "value": "IF WE GET ANOTHER SCHOOL, PUT THEIR STUFF HERE"
+            "value": "The educational and pandemic-related inequities in West Harlem schools persist, even among institutions that have not lost students. David Fanning, principal of District 6’s A. Philip Randolph High School, has seen the ways in which online schooling has disproportionately harmed students with greater economic need. According to Fanning, online learning works best for those who thrive in traditional academic environments and or students whose families have the resources to consistently support and monitor them."
           },
           {
             "type": "text",
-            "value": "The educational and pandemic-related inequities in West Harlem schools persist, even among institutions that have not lost students. David Fanning, Principal of District 6’s A. Philip Randolph High School, has seen the ways in which online schooling has disproportionately harmed students of greater need. Though A. Philip Randolph has actually gained students this year—the school’s enrollment increased by 4.93%, and they currently have 1512 students total—the uneven distribution of COVID-19 related struggle is evident. Online school works best for those who thrive in traditional academic environments, Fanning said, as well as for students whose families have the resources to consistently support and monitor them."
+            "value": "“If you’re from a family where people are dealing with a lot of stuff,” he continued, “school is a safe place. For a lot of kids, it’s a place where they don’t have a lot of other responsibilities. They can be a teenager. Those kids are really missing out because they don’t have a safe place to go.”"
           },
           {
             "type": "text",
-            "value": "“But if you’re from a family where people are dealing with a lot of stuff,” he continued, “school is like a safe place. For a lot of kids, it’s a place where they don’t have a lot of other responsibilities, where they can be a teenager. Those kids are really missing out because they don’t have a safe place to go.”"
+            "value": "Though Philip Randolph has actually gained students this year—the school’s enrollment increased by 4.93 percent and it currently has 1,512 students total—the unequal effects of COVID-19 are evident."
           },
           {
             "type": "text",
-            "value": "Fanning is particularly attuned to the challenges faced by STH—students in temporary housing—many of whom would spend up to 12 hours in school per day prior to the pandemic, arriving at the building when the doors opened and leaving well into the evening when possible."
+            "value": "Fanning is particularly attuned to the challenges faced by students in temporary housing—many of whom would spend up to 12 hours in school per day prior to the pandemic, arriving at the building when the doors opened and leaving well into the evening."
           },
           {
             "type": "text",
@@ -45,69 +45,79 @@
           },
           {
             "type": "text",
-            "value": "Due to its size, A. Philips Randolph has a robust support staff, with two faculty members who work only with STH students, but many schools do not have access to the same resources. Academic support programs have long served those who require additional attention, enmeshing otherwise inaccessible support into students’ scholastic lives. Support programs, however, are not impervious to the difficulties faced by the pandemic, as they, like schools, have had to adapt their enrollments and services to suit the new educational infrastructure."
+            "value": "Due to its size, Philip Randolph has a robust support staff with two faculty members who solely work with the students who are in temporary housing, but many schools do not have access to the same resources. Academic support programs have long served those who require additional attention, enmeshing otherwise inaccessible support into students’ scholastic lives. Support programs, however, are not impervious to the difficulties faced by the students as a result of the pandemic, as they, like schools, have had to adapt their enrollments and services to suit the new educational infrastructure."
           },
           {
             "type": "text",
-            "value": "One such program is Reading Partners, a one-to-one tutoring service that uses a scripted curriculum to support students whose reading level sits between six months to two-and-a-half years behind their grade level. Typically, Reading Partners operates within 22 schools throughout the city, filling designated classrooms with tutors and tutees all day. This year, however, the program has moved entirely online and has decreased operation to 15 schools."
+            "value": "One such program is Reading Partners, a one-on-one tutoring service that uses a scripted curriculum to support students whose reading level sits between six months to two and a half years behind their grade level. Typically, Reading Partners operates within 22 schools throughout the city, filling designated classrooms with tutors all day. This year, however, the program has moved entirely online and has decreased its operation to 15 schools."
           },
           {
             "type": "text",
-            "value": "While Reading Partners typically serves 10 students every 45 minutes within each school, they have had to scale back to hosting between 4 and 6 tutoring sessions per hour, as monitoring sessions on Zoom is more time-consuming than doing so in person. Principals and additional academic support programs refer students to Reading Partners based on a number of factors, ranging from whether or not they have the proper technology to participate in tutoring sessions to their academic need, which is of paramount consideration."
+            "value": "Reading Partners typically hosted 10 tutoring sessions every 45 minutes, but now only hosts between four and six sessions per hour, as monitoring sessions on Zoom is more energy-consuming than doing so in person. Principals and additional academic support programs refer students to Reading Partners based on a number of factors, including technological access and academic need."
           },
           {
             "type": "text",
-            "value": "Despite the challenges posed by the pandemic, Program Director for Reading Partners New York Allison Hoyle has not seen an enormous overall increase in academic need this year, but rather has observed that the struggle is somewhat localized to certain grades in certain schools."
+            "value": "Despite the challenges posed by the pandemic, Allison Hoyle, the program director for Reading Partners New York, has not seen an enormous increase in academic need this year, but emphasized that need is great even in non-pandemic years."
           },
           {
             "type": "text",
-            "value": "“I think that the COVID slide is there. Last summer’s slide is there. Every year we see students behind, so I didn’t see a huge increase in need,” Ms. Hoyle said. “I think that principals have expressed that certain grade levels [are struggling]. They can pinpoint classes...but honestly, the need is really great every year”"
+            "value": "“I think that the [back]slide is there. Last summer’s slide is there. Every year we see students behind, so I didn’t see a huge increase in need,” Hoyle said. “I think that principals have expressed that certain grade levels [are struggling]. They can pinpoint classes … but honestly, the need is really great every year.”"
           },
           {
             "type": "text",
-            "value": "Graham Windham, a nonprofit that assists children and families, has also stepped in to help alleviate the disproportionate challenges that West Harlem students are facing. Based in the Manhattanville Community Center, Graham Windham’s West Harlem location has partnered with the Department of Education through the DOE’s new Learning Bridges program. They host 30 students, ranging from kindergarteners through eighth graders, every day, and provide them with a safe and comfortable place from which to attend online school, with computers, WiFi, headphones, and technical and academic assistance. Graham Windham staff and high school interns keep track of each student’s schedule, help them with assignments, and ensure that they have comprehensive support."
+            "value": "Graham Windham, a nonprofit that assists children and families, has also stepped in to alleviate the disproportionate challenges that West Harlem students are facing. Based in the Manhattanville Community Center, Graham Windham’s West Harlem after-school program has partnered with the Department of Education through the DOE’s new Learning Bridges program."
           },
           {
             "type": "text",
-            "value": "Bibianna Thomas and Morris Whatley, the Director and Assistant Director of Graham Windham-Manhattanville Cornerstone Community Center respectively, believe that without their program, most of the students they service would likely go unaccounted for due to a lack of support."
+            "value": "The programs host 30 students every day, ranging from elementary schoolers to eighth graders, and provide them with computers, WiFi, headphones, technical and academic assistance, and a safe and comfortable place to attend online school. Graham Windham staff and high school interns keep track of each student’s schedule, help them with assignments, and ensure that they have comprehensive support."
           },
           {
             "type": "text",
-            "value": "“If something goes wrong with one device here we have staff who can troubleshoot or who can technically address the issues right away. [...] And we are a little more familiar with the content of the curriculum scope than the parents,” Thomas explained."
+            "value": "The structure that Graham Windham offers students also ensures that they are able to engage in online learning. Whatley noted that students of all ages are working hard to adapt despite their circumstances. However, many students in West Harlem struggled even before the onset of COVID-19, and those conditions have only been exacerbated by the switch to online learning."
           },
           {
             "type": "text",
-            "value": "Aside from the technical and academic assistance, the structure that Graham Windham provides students is also an important facet in ensuring that they are able to engage in online learning. Whatley noted that students of all ages are working hard to adapt despite the circumstances. However, many students in West Harlem struggled even before COVID-19, and those conditions have only been exacerbated by the switch to online learning."
+            "value": "Bibiana Thomas and Morris Whatley, the director and assistant director of Graham Windham’s Manhattanville Cornerstone Community Center respectively, believe that without their program, most of the students they service would likely have difficulty consistently logging into school."
           },
           {
             "type": "text",
-            "value": "The challenges of online schooling have not only disproportionately impacted specific students, but also specific schools, which do not have infrastructural support programs like Reading Partners and Graham Windham to lean on. <b>Fanning highlighted the benefits of having a large student body right now, saying that A. Philips Randolph managed to increase enrollment in large part due to its size. Having upwards of 1500 students enabled the school to invest in the necessary resources like Chromebooks and limited building access.</b>"
+            "value": "“If something goes wrong with one device here, we have staff who can troubleshoot or who can technically address the issues right away. … And we are a little more familiar with the content of the curriculum scope than the parents,” Thomas explained."
           },
           {
             "type": "text",
-            "value": "Fanning was able to purchase the necessary number of Chromebooks precisely because he did not have a tremendous drop in register, or number of students, and so had the money to invest in devices. The question of buying Chromebooks is symptomatic of a larger issue, one which relates to what Fanning calls “economies of scale.” Economies of scale refer to the ways in which total costs relate to size—for example, if a school has more students, the cost of hiring an extra faculty member goes down, as the salary is spread out across more people."
+            "value": "The challenges of online schooling have not only disproportionately impacted specific students, but also specific schools who do not have infrastructural support programs like Reading Partners and Graham Windham to lean on. Fanning highlighted the benefits of having a large student body right now. Having over 1,500 students enabled the school to invest in the necessary resources like Chromebooks."
           },
           {
             "type": "text",
-            "value": "<b>“I know that [Covid] hit the smaller schools a lot worse than it hit the larger schools, because we have more economies of scale,” he said. “On this economy of scale issue, if I lose 20 kids, the world doesn’t come crashing to an end. There are some high schools out there that have 200 students. If you lose 10% of your student body, that’s not an absorbable loss.”</b>"
+            "value": "The question of buying Chromebooks is symptomatic of a larger issue, one which relates to what Fanning calls “economies of scale.” Economies of scale refers to the ways in which total costs relate to a school’s size—for example, if a school has more students, the cost of hiring an extra faculty member goes down as the salary is spread out across more people."
           },
           {
             "type": "text",
-            "value": "Though Reading Partners has not itself experienced a drop in register, Hoyle has witnessed a higher level of hesitation among principals about paying for the program, suggesting that the question of economies of scale is affecting schools in myriad ways, both impacting Covid-related mechanisms and supplemental programs. Reading Partners costs about $100,000 annually in terms of staffing, curriculum, and volunteer recruitment. The organization asks schools to pay between 15% and 25% of the fee, independently fundraising the rest. Schools are required to invest in order to demonstrate commitment to the program, which requires a fair amount of communication from administrators."
-          },
-          {
-            "type": "text",
-            "value": "Hoyle said that, this year, the fee has “been a concern from school principals. <b>If they don’t hit their enrollment numbers, their budget is going to shrink and they don’t know how they’re going to pay for the full fee. </b>I think that principals this year were very hesitant to agree to a fee until they had a better idea of enrollment. And that typically happens, but this year it was more pronounced for sure.”"
+            "value": "“I know that [COVID-19] hit the smaller schools a lot worse than it hit the larger schools because we have more economies of scale,” he said. “On this economy of scale issue, if I lose 20 kids, the world doesn’t come crashing to an end. There are some high schools out there that have 200 students. If you lose 10 percent of your student body, that’s not an absorbable loss.”"
           },
           {
             "type": "graphic",
             "value": {
-              "asset": "graphic-name.html"
+              "asset": "funding-flowchart.html"
             }
           },
           {
             "type": "text",
-            "value": "Deirdre McIntosh-Brown and Shaneeka Wilson, the co-chairs of the Youth, Education, and Library committee of Community Board 9, noted that while they do not have access to the number of students that have gone unaccounted for, they are aware that people have struggled to keep track of all the students enrolled in public schools in West Harlem. Educators and school administrators have been in constant contact with parents to ensure that their children are logging on to online school, yet despite families’ most ardent efforts, some students still fall through the computational cracks."
+            "value": "Though Reading Partners has not experienced a drop in the number of eligible students, Hoyle has witnessed a higher level of hesitation among principals about paying for the program, suggesting that the question of economies of scale is affecting schools’ abilities to fund supplemental programs. In terms of staffing, curriculum, and volunteer recruitment, Reading Partners costs about $100,000 annually. The organization asks schools to pay between 15 percent to 25 percent of the fee to demonstrate commitment to the program and then independently fundraises the rest."
+          },
+          {
+            "type": "text",
+            "value": "Hoyle said that this year the fee has “been a concern [for] school principals. If they don’t hit their enrollment numbers, their budget is going to shrink and they don’t know how they’re going to pay for the full fee.<b> </b>I think that principals this year were very hesitant to agree to a fee until they had a better idea of enrollment. And that typically happens, but this year it was more pronounced for sure.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scale-draft.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Deirdre McIntosh-Brown and Shaneeka Wilson, the co-chairs of the Youth, Education, and Libraries Committee of Community Board 9, noted that while they do not have access to the number of students that have gone unaccounted for in the district, they are aware that school administrators have struggled to keep track of all of the students enrolled in West Harlem public schools. West Harlem educators and school administrators have been in constant contact with parents to ensure that their children are logging on to online school; however, despite families’ most ardent efforts, some students still fall through the computational cracks."
           },
           {
             "type": "text",
@@ -115,7 +125,7 @@
           },
           {
             "type": "text",
-            "value": "There are a number of community conditions that may contribute to the large number of students unaccounted for: parents looking for full-time jobs and not being able to supervise their children’s learning, WiFi connectivity issues, technical problems with computers and other devices, parents not speaking English or not knowing how to log their children into online school. Furthermore, children in New York can legally be left alone starting at the age of 12, leading to a lack of accountability for middle and high schoolers to actually log into school each day."
+            "value": "There are many community conditions that may contribute to the large number of students unaccounted for: parents too busy looking for full-time jobs to supervise their children’s learning; WiFi connectivity issues; technical problems with computers and other devices; and parents who do not know how to log their children into online school, among others. Furthermore, children in New York can legally be left alone beginning at age 12, which can lead to a lack of accountability among middle and high schoolers to log into school."
           },
           {
             "type": "text",
@@ -123,19 +133,19 @@
           },
           {
             "type": "text",
-            "value": "McIntosh-Brown also noted that there is a new program in place to help build such an accountability. The DOE launched a Daily Summary, where parents can see the tasks their child has to complete and whether they attended school that day. The increase in communication between teachers and parents might be one avenue for ensuring that students are logging into school and accounted for."
+            "value": "McIntosh-Brown also noted that there is a new program in place to help encourage accountability. The DOE launched a system based on daily summaries where parents can see the tasks their child has to complete and whether they attended school that day. The increase in communication between teachers and parents might be one avenue for ensuring that students are accounted for."
           },
           {
             "type": "text",
-            "value": "Fanning suspects that some students have enrolled in private schools or moved away, while others’ fluctuating personal lives have made the process of attending school itself untenable at times."
+            "value": "Fanning suspects that some students who have left the public school system have either enrolled in private schools or moved away. For others, fluctuating personal lives have made the process of attending online school untenable at times."
           },
           {
             "type": "text",
-            "value": "“We’re respectful of the fact that these families have a lot to deal with. Sometimes, Joey going to class today is not on Maslow’s list of needs,” Fanninghe said, highlighting the ways in which circumstance impacts one’s educational experience. Yet he has been “humbled” by the time and energy faculty members have devoted to supporting students, particularly those whose hierarchy of needs has been shaken and destabilized by pandemic schooling."
+            "value": "“We’re respectful of the fact that these families have a lot to deal with. Sometimes, Joey going to class today is not on Maslow’s list of needs,” Fanning said, referring to the famous ranking of human necessities. Yet he has been “humbled” by the time and energy faculty members have devoted to supporting students, particularly those whose hierarchy of needs has been shaken and destabilized by pandemic schooling."
           },
           {
             "type": "text",
-            "value": "Hoyle, too, has been struck by students’ and schools’ perseverance amid such turbulent circumstances. While the impacts of online school are being disproportionately and deeply felt, she sees resilience, and fears that recognition of such fortitude has been lost among the sea of difficulty."
+            "value": "Hoyle, too, has been struck by the perseverance of students and schools amid such turbulent circumstances. While the impacts of online school are being disproportionately and deeply felt, she sees resilience and fears that recognition of such fortitude has been lost in the sea of difficulty."
           },
           {
             "type": "text",
@@ -143,24 +153,24 @@
           },
           {
             "type": "text",
-            "value": "<i>Staff Writer Maya Mitrasinovic</i><i> can be contacted at </i><a href=\"mailto:maya.mitrasinovic@columbiaspectator.com\"><i>maya.mitrasinovic@columbiaspectator.com</i></a><i> </i>"
+            "value": "<i>Staff writer Maya Mitrasinovic</i><i> can be contacted at </i><a href=\"mailto:maya.mitrasinovic@columbiaspectator.com\"><i>maya.mitrasinovic@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/m_mitrasinovic\"><i>@m_mitrasinovic</i></a><i>.</i><i> </i>"
           },
           {
             "type": "text",
-            "value": "<i>Staff Writer Alice Tecotzky can be contacted at </i><a href=\"mailto:alice.tecotzky@columbiaspectator.com\"><i>alice.tecotzky@columbiaspectator.com</i></a><i>. </i>"
+            "value": "<i>Staff writer Alice Tecotzky can be contacted at </i><a href=\"mailto:alice.tecotzky@columbiaspectator.com\"><i>alice.tecotzky@columbiaspectator.com</i></a><i>. </i>"
           },
           {
             "type": "text",
-            "value": "<i>Graphics Reporter Jefferson Sheng can be contacted at at </i><a href=\"mailto:jefferson.sheng@columbiaspectator.com\"><i>jefferson.sheng@columbiaspectator.com</i></a><i>. </i>"
+            "value": "<i>Graphics reporter Jefferson Sheng can be contacted at </i><a href=\"mailto:jefferson.sheng@columbiaspectator.com\"><i>jefferson.sheng@columbiaspectator.com</i></a><i>. </i>"
           },
           {
             "type": "text",
-            "value": "<i>Graphics Trainee Ethan Zhang can be contacted at </i><a href=\"mailto:editor@columbiaspectator.com\"><i>editor@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter</i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i> </i></a><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>. </i>"
+            "value": "<i>Graphics reporter Ethan Zhang can be contacted at </i><a href=\"mailto:editor@columbiaspectator.com\"><i>editor@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter</i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i> </i></a><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>. </i>"
           }
         ],
-        "headline": "[Headline]",
+        "headline": "As public school enrollment plummets citywide, hard-hit West Harlem schools work to support students",
         "date": "March 11, 2021",
-        "byline": "By Maya Mitrasinovic and Alice Tecotzky\nData analysis and graphics by Jefferson Sheng and Ethan Zhang",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/maya-mitrasinovic/\">Maya Mitrasinovic</a> and <a href=\"https://www.columbiaspectator.com/contributors/Alice-Tecotzky/\">Alice Tecotzky</a>\nData analysis and graphics by <a href=\"https://www.columbiaspectator.com/contributors/jefferson-sheng/\">Jefferson Sheng</a> and <a href=\"https://www.columbiaspectator.com/contributors/ethan-zhang/\">Ethan Zhang</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
